@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(lightcoral, thistle, lightblue, lemonchiffon);
+    color: deeppink;
+}
+#bobobobobobobo{
+    width: 80%;
+}
+
+.name-of-objects{
+    color: Green;
+}
+
+.dubdub{
+    border: 2px solid crimson;
+    width: 350px;
+    height: 300
+}
